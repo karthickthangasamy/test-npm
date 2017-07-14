@@ -1,0 +1,22 @@
+{
+  "name": "test-npm-hello",
+  "version": "1.0.0",
+  "description": "test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickthangasamy/test-npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "KarthickThangasamy <rajkarthick.t@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickthangasamy/test-npm/issues"
+  },
+  "homepage": "https://github.com/karthickthangasamy/test-npm#readme"
+}
